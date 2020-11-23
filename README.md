@@ -1,15 +1,17 @@
 # DevRadar - backend
 
-## Tecnologias
+Aplicação *back-end* para gerenciamento e busca de desenvolvedores que residem próximo a você num raio de 100 km.
+
+## 🚀 Tecnologias
 
 Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 
-- [Express](https://expressjs.com/)
-- [Axios](https://github.com/axios/axios)
-- [Mongoose](https://mongoosejs.com/)
-- [VS Code][vc]
+- [express](https://expressjs.com/)
+- [axios](https://github.com/axios/axios)
+- [mongoose](https://mongoosejs.com/)
+- [vs code][vc]
 
-## Executando
+## ℹ️ Executando
 
 Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v12.13][nodejs] ou superior + [Yarn v1.19][yarn] ou superior instalado no seu computador.
 
@@ -29,13 +31,13 @@ $ yarn install
 $ yarn dev
 ```
 
-## :memo: Licença
+## 📝 Licença
 
 Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
 
 ---
 
-by Augusto César
+by Augusto César Oliveira 👐🏼
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
